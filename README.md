@@ -62,7 +62,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 If you use CauFinder in your research, please cite the following paper:
 
-Chengming Zhang, Zexi Chen, Yuanxiang Miao, Yun Xue, Deyu Cai, Weifeng Guo, Hongbin Ji, Kazuyuki Aihara, Luonan Chen. "Steering cell-state and phenotype transitions by causal disentanglement learning." *bioRxiv* (2024): [https://doi.org/10.1101/2024.08.16.607277](https://doi.org/10.1101/2024.08.16.607277).
+C. Zhang, Z. Chen, Y. Miao, et al. “CauFinder: Steering Cell-State and Phenotype Transitions by Causal Disentanglement Learning.” Advanced Science (2026): e76177. https://doi.org/10.1002/advs.76177
 
 ## Contact
 
