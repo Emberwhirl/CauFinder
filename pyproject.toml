@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "CauFinder"
+version = "1.0.0"
+description = "Causal regulator identification for cell-state transitions"
+
+[tool.setuptools]
+packages = ["CauFinder"]
+
+[tool.setuptools.package-data]
+CauFinder = ["*.R"]
